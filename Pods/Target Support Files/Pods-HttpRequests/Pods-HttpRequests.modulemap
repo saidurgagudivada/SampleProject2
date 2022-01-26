@@ -1,0 +1,6 @@
+framework module Pods_HttpRequests {
+  umbrella header "Pods-HttpRequests-umbrella.h"
+
+  export *
+  module * { export * }
+}
