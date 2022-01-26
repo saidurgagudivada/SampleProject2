@@ -7,7 +7,7 @@
 
 import UIKit
 
-/* source tree second file commit */
+/* change to terminal */
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
