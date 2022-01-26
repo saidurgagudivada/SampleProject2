@@ -7,6 +7,7 @@
 
 import UIKit
 
+/*jagadeesh commit*/
 class UserCell: UITableViewCell {
     
     @IBOutlet weak var userImage: UIImageView!
